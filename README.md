@@ -2,6 +2,7 @@
 Bitap fuzzy search for OCaml
 
 A very simple port of the bitap fuzzy search algorithm from the DiffMatchPatch library https://code.google.com/p/google-diff-match-patch/
+
 No dependency.
 
 Usage:
