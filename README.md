@@ -5,10 +5,12 @@ A very simple port of the bitap fuzzy search algorithm from the DiffMatchPatch l
 No dependency.
 
 Usage:
-
+```
   match_bitap text pattern start
+```
 
 Example:
-
+```
   match_bitap "Lorem ipsum dolor sit amet, consectetur adipiscing elit" "consectatur" 0
   -> 28
+```
